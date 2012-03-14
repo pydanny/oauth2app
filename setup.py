@@ -20,7 +20,7 @@ setup(
     include_package_data = True,
 
     # metadata for upload to PyPI
-    author = "John Wehr",
+    author = "The Python Community",
     author_email = "johnwehr@gmail.com",
     description = "Django OAuth 2.0 Server App",
     license = "MIT License",
